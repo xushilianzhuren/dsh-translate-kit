@@ -1,0 +1,6 @@
+- insert:
+    - id: translate-kit
+      name: 'dsh-translate-kit'
+      config:
+        enabled: true
+        tool: true
